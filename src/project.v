@@ -33,6 +33,6 @@ module tt_um_daobaanh_gost (
     .key(256'b0),
     .pdata(64'b0),
     .cdata()
-    )
+    );
 
 endmodule
